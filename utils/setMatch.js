@@ -1,12 +1,3 @@
-/*
-
-Colors: Red, Green, Purple
-Symbols: Diamond, Squiggle, Oval
-Shadings: Solid, Striped, Open
-Numbers: 1, 2, 3
-
-*/
-
 const colors = ['Red', 'Purple', 'Green'];
 const symbols = ['Squiggle', 'Diamond', 'Oval'];
 const shadings = ['Solid', 'Striped', 'Open'];
