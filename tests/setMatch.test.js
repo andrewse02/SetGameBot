@@ -1,4 +1,4 @@
-const setMatch = require("./setMatch");
+const setMatch = require("../utils/setMatch");
 
 test("getCard", () => {
     expect(setMatch.getCard(1)).toEqual({

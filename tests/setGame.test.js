@@ -1,4 +1,4 @@
-const setMatch = require("./setMatch");
+const setMatch = require("../utils/setMatch");
 let cardNums = [];
 let matchCards = [];
 
